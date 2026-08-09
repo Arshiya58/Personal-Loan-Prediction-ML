@@ -2,7 +2,6 @@
 
 ### 📌 Project Overview
 
-This project was completed as part of the **Machine Learning course** in the **PGP-AIML-Online program at Great Learning**.
 
 The objective is to help **AllLife Bank** improve its marketing strategy by identifying customers who are most likely to purchase personal loans.
 
